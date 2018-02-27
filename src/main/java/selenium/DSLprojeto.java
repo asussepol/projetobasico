@@ -16,7 +16,7 @@ import org.openqa.selenium.support.ui.Select;
 
 public class DSLprojeto {
 
-	private WebDriver driver;
+	private WebDriver drive;
 
 	public DSLprojeto(WebDriver driver) {
 
